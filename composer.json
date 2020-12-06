@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "laravel/adminLtePersian-laravel-8",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "admin Lte Persian laravel 8.",
     "keywords": [
         "framework",
         "laravel"
